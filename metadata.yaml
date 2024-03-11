@@ -1,0 +1,37 @@
+_repo: Roma-antica-Vol-23-b-L-apogeo_73062
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Barbagallo, Corrado
+    birthdate: 1877
+    deathdate: 1952
+    gutenberg_agent_id: '56853'
+    url: http://www.gutenberg.org/2009/agents/56853
+    wikipedia: https://it.wikipedia.org/wiki/Corrado_Barbagallo
+  - agent_name: Ferrero, Guglielmo
+    birthdate: 1871
+    deathdate: 1942
+    gutenberg_agent_id: '4910'
+    url: http://www.gutenberg.org/2009/agents/4910
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Guglielmo_Ferrero
+    - https://en.wikipedia.org/wiki/Guglielmo_Ferrero
+description: ''
+gutenberg_issued: '2024-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73062'
+language: it
+pgterms:marc905: 20230104044458ferrero
+pgterms:marc906: '1921'
+pgterms:marc907: IT
+publication_note: '  $aFirenze :$bLe Monnier, $c1921, copyright 1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History'
+- !lcc 'DG'
+- GITenberg
+title: 'Roma antica, Vol. 2/3 : $b L''apogeo'
+url: http://www.gutenberg.org/ebooks/73062
